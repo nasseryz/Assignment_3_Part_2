@@ -1,8 +1,6 @@
 # Assignment_3_Part_2
 CPSC_4800
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +15,6 @@ CPSC_4800
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -30,31 +27,25 @@ Here are three possible hypotheses:
 * The survival rate is associated to the age
 And For each hypothesis, we have a plot.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Prerequisites
 
 We need Pandas and MatPlotLib packages to perform analysis and draw plots.
-* 
+
   ```sh
   import pandas as pd
   import matplotlib.pyplot as plt
   ```
-
-
+  
 <!-- ROADMAP -->
 ## Roadmap
 
 - [x] Import pachages
 - [x] Read dataset
-- [ ] Determine if the survival rate is associated to the class of passenger
-- [ ] Determine if the survival rate is associated to the gender
-- [ ] Determine the survival rate is associated to the age
-- [ ] Make plots
-
-
+- [x] Determine if the survival rate is associated to the class of passenger
+- [x] Determine if the survival rate is associated to the gender
+- [x] Determine the survival rate is associated to the age
+- [x] Make plots
 
 
 <!-- CONTACT -->
