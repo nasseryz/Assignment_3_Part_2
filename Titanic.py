@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 ## The survival rate is associated to the class of passenger
 
 # Load the Titanic dataset
-titanic = pd.read_csv("titanic.csv")
+titanic = pd.read_csv("Data/titanic.csv")
 
 # Group the data by Pclass and calculate the mean of Survived for each class
 survival_by_class = titanic.groupby('Pclass')['Survived'].mean()
