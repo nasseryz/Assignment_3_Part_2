@@ -52,7 +52,9 @@ We need Pandas and MatPlotLib packages to perform analysis and draw plots.
 ## Contact
 
 Nasser Yazdanpour - [@LinkedIn](https://www.linkedin.com/in/nasser-yazdanpour/)
+
 Email: (yazdanpournasser@gmail.com) 
+
 Project Link: (https://github.com/Nasser-git/Assignment_3_Part_2.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
