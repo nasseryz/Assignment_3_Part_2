@@ -21,7 +21,7 @@ CPSC_4800
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Titanic](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/2560px-RMS_Titanic_3.jpg)
+![Titanic](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/2560px-RMS_Titanic_3.jpg)
 
 In this project, we performed explorotary data analysis and answered three hypotheses based on the dataset. we used statiscts to analyze this data.
 Here are three possible hypotheses:
