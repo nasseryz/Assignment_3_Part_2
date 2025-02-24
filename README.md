@@ -1,5 +1,4 @@
-# Assignment_3_Part_2
-CPSC_4800
+# Titanic
 
 <!-- TABLE OF CONTENTS -->
 <details>
