@@ -20,11 +20,11 @@ CPSC_4800
 
 ![Titanic](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/2560px-RMS_Titanic_3.jpg)
 
-In this project, we performed explorotary data analysis and answered three hypotheses based on the dataset. we used statiscts to analyze this data.
+In this project, we performed exploratory data analysis and answered three hypotheses based on the dataset. We used statistics to analyze this data.
 Here are three possible hypotheses:
-* The survival rate is associated to the class of passenger
-* The survival rate is associated to the gender
-* The survival rate is associated to the age
+* The survival rate is associated with the class of passenger
+* The survival rate is associated with the gender
+* The survival rate is associated with the age
 And For each hypothesis, we have a plot.
 
 
@@ -42,9 +42,9 @@ We need Pandas and MatPlotLib packages to perform analysis and draw plots.
 
 - [x] Import pachages
 - [x] Read dataset
-- [x] Determine if the survival rate is associated to the class of passenger
-- [x] Determine if the survival rate is associated to the gender
-- [x] Determine the survival rate is associated to the age
+- [x] Determine if the survival rate is associated with the class of passenger
+- [x] Determine if the survival rate is associated with the gender
+- [x] Determine the survival rate is associated with the age
 - [x] Make plots
 
 
@@ -55,6 +55,6 @@ Nasser Yazdanpour - [@LinkedIn](https://www.linkedin.com/in/nasser-yazdanpour/)
 
 Email: (yazdanpournasser@gmail.com) 
 
-Project Link: (https://github.com/Nasser-git/Assignment_3_Part_2.git)
+Project Link: (https://github.com/nasseryz/Assignment_3_Part_2.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
